@@ -15,7 +15,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 Para que funcione correctamente la aplicación, modificar los valores de configuración (usuario y contraseña) para la base de datos en el archivo `backend\src\main\resources\application.properties`.
 
-## Iniciar la aplicación
+## Iniciar la aplicación 📦
 
 ### Base de datos
 
