@@ -26,8 +26,8 @@ Asegurarse de tener iniciado el servicio de MySQL, para que la aplicación se pu
 Puede iniciarse de dos formas:
 * Abrir `./backend` en cualquier IDE (IntelliJ/Eclipse, etc.) y ejecutar la aplicación
 * Ubicarse en `./backend` y ejecutar desde la terminal:
-	1) `./mvnw.cmd package`
-	2) `java -jar .\target\todo-backend-0.0.1-SNAPSHOT.jar `
+	1. `./mvnw.cmd package`
+	2. `java -jar .\target\todo-backend-0.0.1-SNAPSHOT.jar `
 
 El backend se servirá en `http://localhost:8080`.
 
@@ -38,5 +38,3 @@ Para iniciar la aplicación de Frontend ubicarse en `./frontend` y luego:
 * Iniciar la aplicación con el comando `npm start`
 
 La aplicación iniciará en `http://localhost:3000`
-
-Una vez ejecutado el script `run.sh` la aplicación será visible en la url `127.0.0.1:4000`
