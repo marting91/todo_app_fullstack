@@ -1,0 +1,14 @@
+-- INSERT INTO folders (nombre) VALUES ('folder_1');
+-- INSERT INTO folders (nombre) VALUES ('folder_2');
+-- INSERT INTO folders (nombre) VALUES ('folder_3');
+-- INSERT INTO folders (nombre) VALUES ('folder_4');
+-- INSERT INTO folders (nombre) VALUES ('folder_5');
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_1_folder_1', 1, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_2_folder_1', 1, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_3_folder_1', 1, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_1_folder_2', 2, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_2_folder_2', 2, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_3_folder_2', 2, true);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_1_folder_3', 3, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_2_folder_3', 3, false);
+-- INSERT INTO tasks (nombre, carpeta_id, estado) VALUES ('task_3_folder_3', 3, false);
